@@ -18,7 +18,7 @@ En esta primera instancia nos enfocaremos fuertemente en el modelado del problem
 Se entregará en una tarea de WebAsignatura un link al repositorio del equipo
 conteniendo todos los artefactos entregables.
 
-Deberán generar un repositorio con siguiente formato en el nombre "ucu_p2_proyecto2026_grupoxx", detallando en "grupoxx" el nombre del grupo, el mismo deberá ser privado e incluir como colaborador al docente, usando la [plantilla del proyecto](https://github.com/ucudal/PII_ProjectTemplate) provista que tiene configuradas las herramientas de _build_, _test_, _docs_, etc.
+Deberán generar un repositorio con el siguiente formato en el nombre "ucu_p2_proyecto2026_grupoxx", detallando en "grupoxx" el nombre del grupo, el mismo deberá ser privado e incluir como colaborador al docente, usando la [plantilla del proyecto](https://github.com/ucudal/PII_ProjectTemplate) provista que tiene configuradas las herramientas de _build_, _test_, _docs_, etc.
 
 Un integrante por equipo deberá completar la entrega.
 
