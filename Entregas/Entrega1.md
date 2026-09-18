@@ -18,7 +18,7 @@ En esta primera instancia nos enfocaremos fuertemente en el modelado del problem
 Se entregará en una tarea de WebAsignatura un link al repositorio del equipo
 conteniendo todos los artefactos entregables.
 
-El repositorio será provisto por los profesores.
+Deberán generar un repositorio con siguiente formato en el nombre "ucu_p2_proyecto2026_grupoxx", detallando en "grupoxx" el nombre del grupo, el mismo deberá ser privado e incluir como colaborador al docente.
 
 Un integrante por equipo deberá completar la entrega.
 
