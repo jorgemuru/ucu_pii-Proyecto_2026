@@ -87,6 +87,7 @@ Véase [Tabla de Entregas](/README.md#entregas).
 ## Medio de entrega
 
 Se entregará en una tarea de WebAsignatura un link al repositorio del equipo conteniendo todos los artefactos entregables.
+
 Si no se entrega link a un commit específico de la rama _master_ o _main_, el equipo docente evaluará el último commit en _master_ o _main_ previo a la fecha de entrega.
 
 Un integrante por equipo deberá completar la entrega.
