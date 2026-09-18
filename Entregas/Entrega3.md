@@ -31,7 +31,7 @@ En esta última instancia terminaremos el desarrollo del nuestro chatbot por com
 > [!TIP]
 > Existe un catálogo de patrones de diseño que es parte de la bibliografía del curso. Si no puedes acceder al libro, existen recursos online como [refactoring.guru/design-patterns](https://refactoring.guru/design-patterns). Es importante que conozcas los patrones del catálogo y los utilices en tu solución.
 
-El bot será implementado en **Discord**. Mira [este ejemplo](https://github.com/ucudal/PII_DiscordBot_Demo) para armar tu próxima entrega.
+El bot será implementado en **Discord**. Mira [este ejemplo](https://github.com/jorgemuru/ucu_pii_DiscordBot) para armar tu próxima entrega.
 
 ## Fecha de entrega
 
@@ -39,7 +39,7 @@ Véase [Tabla de Entregas](../README.md#entregas).
 
 ## Medio de entrega
 
-Se entregará en una [tarea de WebAsignatura](https://webasignatura.ucu.edu.uy) un link al repositorio del equipo conteniendo todos los artefactos entregables. Si no se entrega link a un commit específico de la rama _main_, el equipo docente evaluará el último commit en _main_ previo a la fecha de entrega.
+Se entregará en una tarea de WebAsignatura un link al repositorio del equipo conteniendo todos los artefactos entregables. Si no se entrega link a un commit específico de la rama _main_, el equipo docente evaluará el último commit en _main_ previo a la fecha de entrega.
 
 Un integrante por equipo deberá completar la entrega.
 
@@ -59,7 +59,7 @@ Los profesores vamos a mirar el cumplimiento de los siguientes criterios, alinea
 
 | Criterio | Peso |
 | --- | ---: |
-| Buen diseño orientado a objetos, aplica y documenta el uso de [patrones GRASP](https://github.com/ucudal/PII_Principios_Patrones/blob/master/GRASP.md) y [principios SOLID](https://github.com/ucudal/PII_Principios_Patrones/blob/master/SOLID.md) | 25% |
+| Buen diseño orientado a objetos, aplica y documenta el uso de patrones GRASP y principios SOLID | 25% |
 | Uso de C# y biblioteca .NET Core | 5% |
 | Consistencia entre modelo UML/C# | 5% |
 | Aplica patrones de código, por ejemplo, algunos de [estos](https://refactoring.guru/design-patterns) | 5% |
