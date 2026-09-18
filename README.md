@@ -261,7 +261,7 @@ La estructura del trabajo en el proyecto será la siguiente:
 | Instancia | Fecha | Entregables |
 | --- | --- | --- |
 | Kick-off | 18 de setiembre | |
-| [Primera entrega](Entregas/Entrega1.md) | 11 de octubre | Trello, diagramas de clases, código de clases de dominio + [fachada](https://refactoring.guru/design-patterns/facade) |
+| [Primera entrega](Entregas/Entrega1.md) | 4 de octubre | Trello, diagramas de clases, código de clases de dominio + [fachada](https://refactoring.guru/design-patterns/facade) |
 | [Segunda entrega](Entregas/Entrega2.md) | 8 de noviembre | Trello actualizado, entrega de [user stories](https://es.wikipedia.org/wiki/Historias_de_usuario) implementadas. Las historias de usuario deberán ser implementadas mediante [casos de prueba](https://en.wikipedia.org/wiki/Test_case) usando la fachada. |
 | [Entrega final](Entregas/Entrega3.md) | 25 de noviembre | Trello actualizado, bot funcionando y entregables según se indica en la [consigna de la entrega](./Entregas/Entrega3.md) |
 | Defensa | 27 de noviembre |
