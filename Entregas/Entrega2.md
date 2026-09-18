@@ -86,12 +86,8 @@ Véase [Tabla de Entregas](/README.md#entregas).
 
 ## Medio de entrega
 
-Se entregará en una [tarea de
-WebAsignatura](https://webasignatura.ucu.edu.uy/course/view.php?id=288&section=1)
-un link al repositorio del equipo conteniendo todos los artefactos entregables.
-Si no se entrega link a un commit específico de la rama _master_ o _main_, el
-equipo docente evaluará el último commit en _master_ o _main_ previo a la fecha
-de entrega.
+Se entregará en una tarea de WebAsignatura un link al repositorio del equipo conteniendo todos los artefactos entregables.
+Si no se entrega link a un commit específico de la rama _master_ o _main_, el equipo docente evaluará el último commit en _master_ o _main_ previo a la fecha de entrega.
 
 Un integrante por equipo deberá completar la entrega.
 
@@ -121,7 +117,7 @@ alineados con la rúbrica del curso:
 
 | Criterio | Peso |
 | --- | ---: |
-| Buen diseño orientado a objetos, aplica y documenta el uso de [guías de diseño](https://github.com/ucudal/PII_Guias) | 35% |
+| Buen diseño orientado a objetos, aplica y documenta el uso de guías de diseño (GRASP, SOLID, etc.) | 35% |
 | Uso de C# y biblioteca .NET Core | 5% |
 | Consistencia entre modelo UML/C# | 5% |
 | Aplica patrones de código, por ejemplo, algunos de [estos](https://refactoring.guru/design-patterns) | 10% |
